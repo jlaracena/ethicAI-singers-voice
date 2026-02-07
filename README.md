@@ -6,6 +6,12 @@ EthicAI ha sido diseñado para responder preguntas de manera noble, ética y pro
 
 ---
 
+## 🌐 App en Vivo
+
+Puedes acceder a la aplicación directamente desde este enlace: 👉 https://ethicai-backend-395778620224.us-central1.run.app/
+
+---
+
 ## 📸 Screenshots
 
 | Home Interface | Chat Interaction |
