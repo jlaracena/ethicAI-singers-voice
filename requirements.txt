@@ -1,0 +1,11 @@
+langchain-google-vertexai
+langchain-core
+ebooklib
+beautifulsoup4
+langchain-text-splitters
+google-cloud-aiplatform
+google-cloud-firestore
+pydantic
+fastapi
+uvicorn
+python-dotenv
